@@ -59,6 +59,6 @@ python3 feliksos.py
 
 ---
 
-Found the bag? Write in the comments
+Found the bug? Write in the comments
 Or create an issue in the repository. 
 We will fix it. 
