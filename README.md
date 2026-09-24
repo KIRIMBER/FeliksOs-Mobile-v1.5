@@ -53,8 +53,9 @@ It's a **sandbox** for those who want to feel like a Kernel.
    ```bash
    sudo apt update && sudo apt install python3 -y
 4.Copy felikos.py to your home folder
+
 5.Run:
-python3 felikss.py
+python3 feliksos.py
 
 ---
 
